@@ -1,68 +1,78 @@
-# 🚗 Arduino Robot Car
+# 👋 Hi, I'm Louay  
 
 <p align="center">
-  <img src="images/robot.jpg" width="450" alt="Arduino Robot Car">
+  <img src="images/profile-banner.png" width="750" alt="Profile Banner">
 </p>
 
 ---
 
-## 📌 Overview
-This project is a **2-wheel Arduino robot car**, built when I was 14 years old as part of my learning journey in **electronics, Arduino, and robotics**.  
-It uses an **Arduino board, L298N motor driver, DC motors, and batteries** to move around.
+## 🚀 About Me
+- 🎓 16 y/o student, passionate about **programming, game development & robotics**  
+- 🕹️ Creator of mods & custom tools for **Unreal Engine (UE4 & UE5)** and **Unity**  
+- 🤖 Built my first **Arduino robot** at age 14  
+- 💻 Skilled in **C, C#, HTML/CSS/JS, and reverse engineering/modding tools**  
+- 🌍 Aspiring to study **Computer Science & Game Development abroad**  
 
 ---
 
-## ✨ Features
-- 🔋 Powered by rechargeable battery pack  
-- ⚡ Controlled using Arduino Uno  
-- 🔧 Modular design with easily replaceable parts  
-- 🚗 Forward, backward, and rotation movements  
-
----
-
-## 🛠️ Tech & Components
-- **Arduino Uno**  
-- **L298N Motor Driver**  
-- **2 DC Motors + Wheels**  
-- **9V Battery Pack**  
-- **Jumper wires & switch**  
-
----
-
-## 📷 Gallery
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="images/robot.jpg" width="350" style="margin:10px;" alt="Front view">
+  <img src="https://skillicons.dev/icons?i=arduino,unity,unreal,cs,cpp,html,css,js,python,github,blender" />
 </p>
 
-More photos & videos will be added soon.
+---
+
+## 📌 Featured Projects  
+
+### 🔹 1. Arduino Robot Car  
+<p align="center">
+  <img src="images/robot.jpg" width="350" alt="Arduino Robot Car">
+</p>  
+
+- Controlled with **Arduino Uno & L298N**  
+- Learned electronics & C programming  
+- [📂 View Project](./robot-car) | [🎥 Demo Video](https://your-link.com)  
 
 ---
 
-## 🎥 Demo Video
-👉 [Watch Demo](https://your-link.com) *(recorded at the time of the build)*  
+### 🔹 2. Game Mods & Tools (UE4/UE5)  
+<p align="center">
+  <img src="images/unreal-mods.gif" width="450" alt="Unreal Engine Mods">
+</p>  
+
+- Developed custom mods & assets for **My Hero Ultra Rumble & My Hero One’s Justice 2**  
+- Tools: **Unreal Engine 4.27 / 5, Blender, C#, reverse engineering**  
+- [📂 View Project](./mods) | [🎥 Showcase](https://your-link.com)  
 
 ---
 
-## 📊 Project Stats
-| Category       | Details                  |
-|----------------|--------------------------|
-| 🔧 Built at    | Age 14 (2022)            |
-| ⏳ Duration    | ~2 weeks                 |
-| 💻 Skills Used | Arduino, C programming   |
-| 📚 Learning    | Robotics fundamentals    |
+### 🔹 3. Unity Projects & Mini-Games  
+<p align="center">
+  <img src="images/unity-game.gif" width="400" alt="Unity Game Preview">
+</p>  
+
+- Built **2D & 3D mini-games** in Unity  
+- Implemented physics, UI, and scripting in C#  
+- [📂 View Project](./unity-games) | [🎥 Demo](https://your-link.com)  
 
 ---
 
-## 💡 Future Improvements
-- Add ultrasonic sensor for **obstacle avoidance**  
-- Add Bluetooth module for **remote control**  
-- Upgrade to 4-wheel drive for more stability  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
-## 👤 Author
-Made with ❤️ by **[Your Name](https://github.com/yourusername)**  
-Currently learning **game development, robotics, and programming.**
+## 📫 Contact
+- 📧 Email: your@email.com  
+- 🌐 Portfolio Website: [your-website.com](https://your-website.com)  
+- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
 
 ---
+
+<p align="center">
+  <i>"Learning by building — from Arduino bots to Unreal worlds."</i>
+</p>
