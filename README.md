@@ -39,7 +39,7 @@ Welcome! I am a 17-year-old Computer Science student from Tunisia, passionate ab
   - [Folder / Repository Placeholder](#) – Upload demo clips, screenshots, or code here  
 
 ### Web Projects
-![Alt text for the image](./source/Arduino/Car1.png)
+![img](./source/Arduino/Car1.png)
 - **Arduino Tutorial Website** – Interactive site with videos and live code simulation  
   - [Folder / Repository Placeholder](#) – Upload website files/screenshots here  
 
