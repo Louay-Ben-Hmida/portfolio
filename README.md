@@ -62,7 +62,7 @@
 ### 🔹 4. Website Projects
 <p align="center">
   <img src="source/Web/Vid1.gif" width="350" alt="Arduino Robot Car">
-  <img src="source/web/Vid2.gif" width="350" alt="Arduino Robot Car">
+  <img src="source/Web/Vid2.gif" width="350" alt="Arduino Robot Car">
 </p>  
 
 - Created a Website that teach how to use some arduino with tutorials videos created by me, similation and level test 
