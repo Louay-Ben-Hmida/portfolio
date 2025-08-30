@@ -27,7 +27,7 @@
 
 ### 🔹 1. Arduino Robot Car  
 <p align="center">
-  <img src="images/robot.jpg" width="350" alt="Arduino Robot Car">
+  <img src="source/Arduino/Car1.jpg" width="350" alt="Arduino Robot Car">
 </p>  
 
 - Controlled with **Arduino Uno & L298N**  
