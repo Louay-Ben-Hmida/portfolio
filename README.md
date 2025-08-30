@@ -30,20 +30,23 @@ Welcome! I am a 17-year-old Computer Science student from Tunisia, passionate ab
 ## 📂 Projects
 
 ### Arduino Projects
-- **Remote-Controlled Cars:** Built cars controlled via Android app using Bluetooth  
-- Upload project files/screenshots here
+- **Remote-Controlled Car** – Built cars controlled via Android app using Bluetooth  
+  - [Folder / Repository Placeholder](#) – Upload project files/screenshots/videos here  
+  - Example: Add a screenshot: `![Arduino Car](./Projects/ArduinoCar/screenshot.png)`
 
 ### Unity Games
-- Collaborated with a local Egyptian game development studio  
-- Upload demo clips, screenshots, or code here
+- **Game Development Collaboration** – Worked with a local Egyptian game studio  
+  - [Folder / Repository Placeholder](#) – Upload demo clips, screenshots, or code here  
 
 ### Web Projects
-- **Arduino Tutorial Website:** Interactive site with videos and real-time code simulation  
-- Upload website files/screenshots here
+- **Arduino Tutorial Website** – Interactive site with videos and live code simulation  
+  - [Folder / Repository Placeholder](#) – Upload website files/screenshots here  
 
 ### Modding / Custom Game Content
 - Created mods and custom content using Unity and Unreal Engine  
-- Upload clips, assets, or project documentation here
+  - [Folder / Repository Placeholder](#) – Upload clips, assets, or project documentation here  
+
+> 💡 **Tip:** Replace placeholders with actual GitHub repo links or project folder links. Screenshots or GIFs make your README visually appealing and clickable.
 
 ---
 
@@ -54,4 +57,4 @@ Welcome! I am a 17-year-old Computer Science student from Tunisia, passionate ab
 
 ---
 
-> All certificates, project clips, and documentation are included in the project folders.
+> All certificates, project clips, and documentation can be added to the corresponding folders or linked in the README for easy access.
