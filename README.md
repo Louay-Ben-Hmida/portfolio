@@ -1,61 +1,68 @@
-# Louay Ben Hmida
+# 🚗 Arduino Robot Car
 
-Welcome! I am a 17-year-old Computer Science student from Tunisia, passionate about coding, game development, and technology. I enjoy learning new skills, building projects, and sharing knowledge with the community.
-
----
-
-## 📚 Education
-- **Tunisian Baccalaureate**, Computer Science Section (Expected 16–17/20)
-- Consistently top performance in programming and school competitions
+<p align="center">
+  <img src="images/robot.jpg" width="450" alt="Arduino Robot Car">
+</p>
 
 ---
 
-## 💻 Technical Skills
-
-**Programming Languages:** Python, C#, C, PHP, HTML, CSS, JavaScript, Arduino  
-**Game Development:** Unity, Unreal Engine, Blender (3D modeling)  
-**Web Development:** Interactive Arduino educational websites  
-**Tools:** PyQt5, Git, Android development  
+## 📌 Overview
+This project is a **2-wheel Arduino robot car**, built when I was 14 years old as part of my learning journey in **electronics, Arduino, and robotics**.  
+It uses an **Arduino board, L298N motor driver, DC motors, and batteries** to move around.
 
 ---
 
-## 🏆 Achievements
-- **National Mobile App Competition** – 1st place (age 12)  
-- **National 3D Video & Storytelling Competition** – 2nd place (official)  
-- **Digital Content Entrepreneurship:** Managed a digital content community, creating custom mods and game content using Unreal Engine, Unity, and Blender, earning revenue while gaining experience in coding, 3D modeling, and project management  
-- **Programming Challenges:** Python, math, UI design, PyQt5 projects  
+## ✨ Features
+- 🔋 Powered by rechargeable battery pack  
+- ⚡ Controlled using Arduino Uno  
+- 🔧 Modular design with easily replaceable parts  
+- 🚗 Forward, backward, and rotation movements  
 
 ---
 
-## 📂 Projects
-
-### Arduino Projects
-- **Remote-Controlled Car** – Built cars controlled via Android app using Bluetooth  
-  - [Folder / Repository Placeholder](#) – Upload project files/screenshots/videos here  
-  - Example: Add a screenshot: `![Arduino Car](./Projects/ArduinoCar/screenshot.png)`
-
-### Unity Games
-- **Game Development Collaboration** – Worked with a local Egyptian game studio  
-  - [Folder / Repository Placeholder](#) – Upload demo clips, screenshots, or code here  
-
-### Web Projects
-![img](./source/Arduino/Car1.jpg)
-- **Arduino Tutorial Website** – Interactive site with videos and live code simulation  
-  - [Folder / Repository Placeholder](#) – Upload website files/screenshots here  
-
-### Modding / Custom Game Content
-- Created mods and custom content using Unity and Unreal Engine  
-  - [Folder / Repository Placeholder](#) – Upload clips, assets, or project documentation here  
-
-> 💡 **Tip:** Replace placeholders with actual GitHub repo links or project folder links. Screenshots or GIFs make your README visually appealing and clickable.
+## 🛠️ Tech & Components
+- **Arduino Uno**  
+- **L298N Motor Driver**  
+- **2 DC Motors + Wheels**  
+- **9V Battery Pack**  
+- **Jumper wires & switch**  
 
 ---
 
-## 🌐 Portfolio & Contact
-- GitHub: [https://github.com/YourUsername](https://github.com/YourUsername)  
-- Email: [Your Email]  
-- LinkedIn: [Your LinkedIn Profile]  
+## 📷 Gallery
+
+<p align="center">
+  <img src="images/robot.jpg" width="350" style="margin:10px;" alt="Front view">
+</p>
+
+More photos & videos will be added soon.
 
 ---
 
-> All certificates, project clips, and documentation can be added to the corresponding folders or linked in the README for easy access.
+## 🎥 Demo Video
+👉 [Watch Demo](https://your-link.com) *(recorded at the time of the build)*  
+
+---
+
+## 📊 Project Stats
+| Category       | Details                  |
+|----------------|--------------------------|
+| 🔧 Built at    | Age 14 (2022)            |
+| ⏳ Duration    | ~2 weeks                 |
+| 💻 Skills Used | Arduino, C programming   |
+| 📚 Learning    | Robotics fundamentals    |
+
+---
+
+## 💡 Future Improvements
+- Add ultrasonic sensor for **obstacle avoidance**  
+- Add Bluetooth module for **remote control**  
+- Upgrade to 4-wheel drive for more stability  
+
+---
+
+## 👤 Author
+Made with ❤️ by **[Your Name](https://github.com/yourusername)**  
+Currently learning **game development, robotics, and programming.**
+
+---
