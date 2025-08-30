@@ -42,7 +42,7 @@
   <img src="images/unreal-mods.gif" width="450" alt="Unreal Engine Mods">
 </p>  
 
-- Developed custom mods & assets for **My Hero Ultra Rumble & My Hero One’s Justice 2**  
+- Developed custom mods & assets for **Video games**  
 - Tools: **Unreal Engine 4.27 / 5, Blender, C#, reverse engineering**  
 - [📂 View Project](./mods) | [🎥 Showcase](https://your-link.com)  
 
@@ -61,9 +61,8 @@
 
 ### 🔹 4. Website Projects
 <p align="center">
-  <img src="source/Web/Vid1.gif" width="500" alt="Arduino Robot Car">
-  <br>
-  <img src="source/Web/Vid2.gif" width="500" alt="Arduino Robot Car">
+  <img src="source/Web/Vid1.gif" width="600" alt="Arduino Robot Car">
+  <img src="source/Web/Vid2.gif" width="600" alt="Arduino Robot Car">
 </p>  
 
 - Created a Website that teach how to use some arduino with tutorials videos created by me, similation and level test 
