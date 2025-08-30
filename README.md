@@ -28,6 +28,7 @@
 ### 🔹 1. Arduino Robot Car  
 <p align="center">
   <img src="source/Arduino/Car1.jpg" width="350" alt="Arduino Robot Car">
+  <img src="source/Arduino/Car2.jpg" width="350" alt="Arduino Robot Car">
 </p>  
 
 - Controlled with **Arduino Uno & L298N**  
@@ -58,6 +59,17 @@
 
 ---
 
+### 🔹 4. Website Projects
+<p align="center">
+  <img src="source/Web/Vid1.gif" width="350" alt="Arduino Robot Car">
+  <img src="source/web/Vid2.gif" width="350" alt="Arduino Robot Car">
+</p>  
+
+- Created a Website that teach how to use some arduino with tutorials videos created by me, similation and level test 
+- Learned html/css/js/php
+- [📂 View Project](./robot-car) | [🎥 Demo Video](https://your-link.com)  
+
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
