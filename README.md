@@ -74,7 +74,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Custom mods and content for various games; maintained Patreon and YouTube channel  
   **Skills:** Modding, Content Creation  
   **Media:**  
-  <img src="source/Mods/img3.png" alt="Game Modding" width="600"><br><img src="source/Mods/img1.png" alt="Game Modding" width="600"><img src="source/Mods/img2.png" alt="Game Modding" width="600">
+  <img src="source/Mods/img3.png" alt="Game Modding" width="800"><br><img src="source/Mods/img1.png" alt="Game Modding" width="800"><img src="source/Mods/img2.png" alt="Game Modding" width="800">
   [Patreon](link-to-patreon) | [YouTube](link-to-youtube)  
 
 ---
