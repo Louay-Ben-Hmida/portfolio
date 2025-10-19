@@ -52,7 +52,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Skills:** Unity, C#  
   **Media:**  
   <img src="source/Unity/img1.jpg" alt="Unity Game" height="200"><img src="source/Unity/img2.jpg" alt="Unity Game" height="200"><br>
-  <img src="source/Unity/gif1.gif" alt="Unity Game" width="600">
+  <img src="source/Unity/gif2.gif" alt="Unity Game" width="600">
    
   
   ### ✅3. Arduino Learning Website
@@ -74,7 +74,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Custom mods and content for various games; maintained Patreon and YouTube channel  
   **Skills:** Modding, Content Creation  
   **Media:**  
-  ![Game Mod Screenshot](path/to/screenshot5.jpg)  
+  <img src="source/Mods/img3.png" alt="Game Modding" width="600"><br><img src="source/Mods/img1.png" alt="Game Modding" width="600"><img src="source/Mods/img2.png" alt="Game Modding" width="600">
   [Patreon](link-to-patreon) | [YouTube](link-to-youtube)  
 
 ---
