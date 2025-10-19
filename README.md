@@ -40,7 +40,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
 ## 💻 Projects
 
   ### ✅1. Arduino Remote Control Cars
-          **Description:** Android app-controlled cars via Bluetooth  
+  **Description:** Android app-controlled cars via Bluetooth  
   **Skills:** Arduino (C), Android development  
   **Media:**  
   ![Arduino Car](path/to/screenshot1.jpg)  
