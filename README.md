@@ -43,7 +43,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Android app-controlled cars via Bluetooth  
   **Skills:** Arduino (C), Android development  
   **Media:**  
-  ![Arduino Car](path/to/screenshot1.jpg)  
+  <img src="source/Arduino/Car1.jpg" alt="Arduino Car" width="400" height="300">
   [Video Demo](link-to-video)  
   
   ### ✅2. Unity Game Projects
@@ -57,7 +57,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Educational platform for Arduino parts with video tutorials and real-time code simulation  
   **Skills:** HTML/CSS/JS, PHP, Arduino  
   **Media:**  
-  ![Website Screenshot](source/Arduino/Car1.jpg)  
+  <img src="source/Web/Vig1.gif" alt="Website Screenshot" width="400" height="300">
   [Live Site](link-to-website)  
   
   ### ✅4. Python Projects
