@@ -39,40 +39,40 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
 
 ## 💻 Projects
 
-### 1. Arduino Remote Control Cars
-**Description:** Android app-controlled cars via Bluetooth  
-**Skills:** Arduino (C), Android development  
-**Media:**  
-![Arduino Car](path/to/screenshot1.jpg)  
-[Video Demo](link-to-video)  
-
-### 2. Unity Game Projects
-**Description:** Worked on local game dev studio projects  
-**Skills:** Unity, C#  
-**Media:**  
-![Unity Game Clip](path/to/screenshot2.jpg)  
-[Video Clip](link-to-video)  
-
-### 3. Arduino Learning Website
-**Description:** Educational platform for Arduino parts with video tutorials and real-time code simulation  
-**Skills:** HTML/CSS/JS, PHP, Arduino  
-**Media:**  
-![Website Screenshot](path/to/screenshot3.jpg)  
-[Live Site](link-to-website)  
-
-### 4. Python Projects
-**Description:** Math problem-solving and GUI applications using PyQt5  
-**Skills:** Python, PyQt5  
-**Media:**  
-![Python App](path/to/screenshot4.jpg)  
-[Code Examples](link-to-repo-or-snippets)  
-
-### 5. Game Mods & Leaks
-**Description:** Custom mods and content for various games; maintained Patreon and YouTube channel  
-**Skills:** Modding, Content Creation  
-**Media:**  
-![Game Mod Screenshot](path/to/screenshot5.jpg)  
-[Patreon](link-to-patreon) | [YouTube](link-to-youtube)  
+  ### ✅1. Arduino Remote Control Cars
+          **Description:** Android app-controlled cars via Bluetooth  
+  **Skills:** Arduino (C), Android development  
+  **Media:**  
+  ![Arduino Car](path/to/screenshot1.jpg)  
+  [Video Demo](link-to-video)  
+  
+  ### ✅2. Unity Game Projects
+  **Description:** Worked on local game dev studio projects  
+  **Skills:** Unity, C#  
+  **Media:**  
+  ![Unity Game Clip](path/to/screenshot2.jpg)  
+  [Video Clip](link-to-video)  
+  
+  ### ✅3. Arduino Learning Website
+  **Description:** Educational platform for Arduino parts with video tutorials and real-time code simulation  
+  **Skills:** HTML/CSS/JS, PHP, Arduino  
+  **Media:**  
+  ![Website Screenshot](path/to/screenshot3.jpg)  
+  [Live Site](link-to-website)  
+  
+  ### ✅4. Python Projects
+  **Description:** Math problem-solving and GUI applications using PyQt5  
+  **Skills:** Python, PyQt5  
+  **Media:**  
+  ![Python App](path/to/screenshot4.jpg)  
+  [Code Examples](link-to-repo-or-snippets)  
+  
+  ### ✅5. Game Mods & Leaks
+  **Description:** Custom mods and content for various games; maintained Patreon and YouTube channel  
+  **Skills:** Modding, Content Creation  
+  **Media:**  
+  ![Game Mod Screenshot](path/to/screenshot5.jpg)  
+  [Patreon](link-to-patreon) | [YouTube](link-to-youtube)  
 
 ---
 
