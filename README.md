@@ -52,10 +52,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Skills:** Unity, C#  
   **Media:**  
   <img src="source/Unity/img1.jpg" alt="Unity Game" height="200"><img src="source/Unity/img2.jpg" alt="Unity Game" height="200"><br>
-  <video width="600" controls>
-  <source src="source/Unity/vid1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
+  <img src="source/Unity/gif1.gif" alt="Unity Game" width="600">
    
   
   ### ✅3. Arduino Learning Website
