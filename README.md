@@ -1,90 +1,98 @@
-# 👋 Hi, I'm Louay  
+# Louay Ben Hmida – Portfolio
 
-<p align="center">
-  <img src="images/profile-banner.png" width="750" alt="Profile Banner">
-</p>
+![Profile Banner](path/to/banner-image.jpg)  
 
----
+## 👋 About Me
+Hi! I’m **Louay Ben Hmida**, a 17-year-old passionate computer scientist from Tunisia. I’m currently in my final year of **Bac – Computer Science section**, aiming for a **16/17 average**.  
 
-## 🚀 About Me
-- 🎓 16 y/o student, passionate about **programming, game development & robotics**  
-- 🕹️ Creator of mods & custom tools for **Unreal Engine (UE4 & UE5)** and **Unity**  
-- 🤖 Built my first **Arduino robot** at age 14  
-- 💻 Skilled in **C, C#, HTML/CSS/JS, and reverse engineering/modding tools**  
-- 🌍 Aspiring to study **Computer Science & Game Development abroad**  
+Computer Science is more than a subject for me – it’s my hobby, my playground, and the way I bring ideas to life. I love learning, building, and improving, whether it’s coding, game development, robotics, or web apps.  
+
+**Languages:** Arabic (native), English (good), French (medium), German (learning)  
+**Tools & Skills:** Python, PyQt5, C#, Unity, Arduino (C), HTML/CSS/JS, PHP, Unreal Engine, Blender  
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Achievements
+- **National Mobile App Competition** – 1st place (age 12)  
+  ![Certificate](path/to/certificate.jpg)  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,unity,unreal,cs,cpp,html,css,js,python,github,blender" />
-</p>
+- **National 3D Video & Story Competition** – 2nd place (official, invited to live radio)  
 
----
+- **Arduino Projects & Robotics** (age 13–16)  
+  - Built remote control cars using Android apps and Bluetooth  
+  - Letters of recommendation available from teachers  
 
-## 📌 Featured Projects  
+- **Game Dev Experience**  
+  - Unity & C# projects, worked with a local game dev studio in Egypt  
+  - Clips available from in-game contributions  
 
-### 🔹 1. Arduino Robot Car  
-<p align="center">
-  <img src="source/Arduino/Car1.jpg" width="350" alt="Arduino Robot Car">
-  <img src="source/Arduino/Car2.jpg" width="350" alt="Arduino Robot Car">
-</p>  
+- **Web Development Projects**  
+  - Created a website to teach Arduino with videos and real-time code simulation  
 
-- Controlled with **Arduino Uno & L298N**  
-- Learned electronics & C programming  
-- [📂 View Project](./robot-car) | [🎥 Demo Video](https://your-link.com)  
+- **Modding & Content Creation**  
+  - Game leaks and mods with a Patreon page: ~$3,000 earned at age 16, ~800 subscribers, 120k+ YouTube views  
 
----
-
-### 🔹 2. Game Mods & Tools (UE4/UE5)  
-<p align="center">
-  <img src="images/unreal-mods.gif" width="450" alt="Unreal Engine Mods">
-</p>  
-
-- Developed custom mods & assets for **Video games**  
-- Tools: **Unreal Engine 4.27 / 5, Blender, C#, reverse engineering**  
-- [📂 View Project](./mods) | [🎥 Showcase](https://your-link.com)  
+- **Python & Problem Solving**  
+  - Multiple Python projects including math, problem-solving, and PyQt5 interfaces  
 
 ---
 
-### 🔹 3. Unity Projects & Mini-Games  
-<p align="center">
-  <img src="images/unity-game.gif" width="400" alt="Unity Game Preview">
-</p>  
+## 💻 Projects
 
-- Built **2D & 3D mini-games** in Unity  
-- Implemented physics, UI, and scripting in C#  
-- [📂 View Project](./unity-games) | [🎥 Demo](https://your-link.com)  
+### 1. Arduino Remote Control Cars
+**Description:** Android app-controlled cars via Bluetooth  
+**Skills:** Arduino (C), Android development  
+**Media:**  
+![Arduino Car](path/to/screenshot1.jpg)  
+[Video Demo](link-to-video)  
+
+### 2. Unity Game Projects
+**Description:** Worked on local game dev studio projects  
+**Skills:** Unity, C#  
+**Media:**  
+![Unity Game Clip](path/to/screenshot2.jpg)  
+[Video Clip](link-to-video)  
+
+### 3. Arduino Learning Website
+**Description:** Educational platform for Arduino parts with video tutorials and real-time code simulation  
+**Skills:** HTML/CSS/JS, PHP, Arduino  
+**Media:**  
+![Website Screenshot](path/to/screenshot3.jpg)  
+[Live Site](link-to-website)  
+
+### 4. Python Projects
+**Description:** Math problem-solving and GUI applications using PyQt5  
+**Skills:** Python, PyQt5  
+**Media:**  
+![Python App](path/to/screenshot4.jpg)  
+[Code Examples](link-to-repo-or-snippets)  
+
+### 5. Game Mods & Leaks
+**Description:** Custom mods and content for various games; maintained Patreon and YouTube channel  
+**Skills:** Modding, Content Creation  
+**Media:**  
+![Game Mod Screenshot](path/to/screenshot5.jpg)  
+[Patreon](link-to-patreon) | [YouTube](link-to-youtube)  
 
 ---
 
-### 🔹 4. Website Projects
-<p align="center">
-  <img src="source/Web/Vid1.gif" width="600" alt="Arduino Robot Car">
-  <img src="source/Web/Vid2.gif" width="600" alt="Arduino Robot Car">
-</p>  
-
-- Created a Website that teach how to use some arduino with tutorials videos created by me, similation and level test 
-- Learned html/css/js/php
-- [📂 View Project](./robot-car) | [🎥 Demo Video](https://your-link.com)  
-
----
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150" />
-</p>
+## 📈 Academic Performance
+- Always ranked **1st in programming** in my school  
+- Example: 19.93/20 in programming first term this year  
+- Motivational letters available from teachers  
 
 ---
 
-## 📫 Contact
-- 📧 Email: your@email.com  
-- 🌐 Portfolio Website: [your-website.com](https://your-website.com)  
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
+## 🎯 My Goals
+I aim to pursue **Computer Science at the university level** (with scholarships if possible) and continue building impactful projects. My focus is on expanding my skills, contributing to real-world software projects, and exploring opportunities to work alongside studying.  
 
 ---
 
-<p align="center">
-  <i>"Learning by building — from Arduino bots to Unreal worlds."</i>
-</p>
+## 📫 Contact Me
+- GitHub: [https://github.com/Louay-Ben-Hmida](https://github.com/Louay-Ben-Hmida)  
+- Email: your.email@example.com  
+- LinkedIn/Portfolio: [link]  
+
+---
+
+*All media and projects can be replaced with your screenshots, video clips, or links for easy viewing by scholarship committees or universities.*
