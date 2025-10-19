@@ -43,7 +43,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Android app-controlled cars via Bluetooth  
   **Skills:** Arduino (C), Android development  
   **Media:**  
-  <img src="source/Arduino/Car1.jpg" alt="Arduino Car" width="400" height="300">
+  <img src="source/Arduino/Car1.jpg" alt="Arduino Car" width="600" height="600">
   <img src="source/Arduino/Car2.jpg" alt="Arduino Car" width="400" height="300">
   [Video Demo](link-to-video)  
   
