@@ -51,7 +51,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Worked on local game dev studio projects  
   **Skills:** Unity, C#  
   **Media:**  
-  <img src="source/Unity/img1.jpg" alt="Unity Game" height="400"><img src="source/Unity/img2.jpg" alt="Unity Game" height="400">
+  <img src="source/Unity/img1.jpg" alt="Unity Game" height="200"><img src="source/Unity/img2.jpg" alt="Unity Game" height="200">
   [Video Clip](link-to-video)  
   
   ### ✅3. Arduino Learning Website
