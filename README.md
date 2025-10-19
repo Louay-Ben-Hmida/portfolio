@@ -52,15 +52,15 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Skills:** Unity, C#  
   **Media:**  
   <img src="source/Unity/img1.jpg" alt="Unity Game" height="200"><img src="source/Unity/img2.jpg" alt="Unity Game" height="200"><br>
-  <img src="source/Unity/gif2.gif" alt="Unity Game" width="600">
+  <img src="source/Unity/gif2.gif" alt="Unity Game" width="800">
    
   
   ### ✅3. Arduino Learning Website
   **Description:** Educational platform for Arduino parts with video tutorials and real-time code simulation  
   **Skills:** HTML/CSS/JS, PHP, Arduino  
   **Media:**  
-  <img src="source/Web/Vid1.gif" alt="Website Screenshot" width="600"><br>
-  <img src="source/Web/Vid2.gif" alt="Website Screenshot" width="600">
+  <img src="source/Web/Vid1.gif" alt="Website Screenshot" width="800"><br>
+  <img src="source/Web/Vid2.gif" alt="Website Screenshot" width="800">
   [Live Site](link-to-website)  
   
   ### ✅4. Python Projects
@@ -74,7 +74,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Custom mods and content for various games; maintained Patreon and YouTube channel  
   **Skills:** Modding, Content Creation  
   **Media:**  
-  <img src="source/Mods/img3.png" alt="Game Modding" width="800"><img src="source/Mods/img1.png" alt="Game Modding" width="300"><img src="source/Mods/img2.png" alt="Game Modding" width="300">
+  <img src="source/Mods/img3.png" alt="Game Modding" width="800"><img src="source/Mods/img1.png" alt="Game Modding" width="800"><img src="source/Mods/img2.png" alt="Game Modding" width="800">
   [Patreon](link-to-patreon) | [YouTube](link-to-youtube)  
 
 ---
