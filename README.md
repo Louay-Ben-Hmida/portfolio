@@ -44,6 +44,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Skills:** Arduino (C), Android development  
   **Media:**  
   <img src="source/Arduino/Car1.jpg" alt="Arduino Car" width="400" height="300">
+  <img src="source/Arduino/Car2.jpg" alt="Arduino Car" width="400" height="300">
   [Video Demo](link-to-video)  
   
   ### ✅2. Unity Game Projects
@@ -58,6 +59,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Skills:** HTML/CSS/JS, PHP, Arduino  
   **Media:**  
   <img src="source/Web/Vig1.gif" alt="Website Screenshot" width="400" height="300">
+  <img src="source/Web/Vig2.gif" alt="Website Screenshot" width="400" height="300">
   [Live Site](link-to-website)  
   
   ### ✅4. Python Projects
@@ -90,7 +92,7 @@ I aim to pursue **Computer Science at the university level** (with scholarships 
 
 ## 📫 Contact Me
 - GitHub: [https://github.com/Louay-Ben-Hmida](https://github.com/Louay-Ben-Hmida)  
-- Email: your.email@example.com  
+- Email: lbhworkstation@gmail.com
 - LinkedIn/Portfolio: [link]  
 
 ---
