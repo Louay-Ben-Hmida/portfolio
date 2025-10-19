@@ -66,7 +66,7 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Math problem-solving and GUI applications using PyQt5  
   **Skills:** Python, PyQt5  
   **Media:**  
-  <img src="source/Python/script1.png" alt="Python App" width="400"><img src="source/Python/script2.png" alt="Python App" width="400">
+  <img src="source/Python/script1.png" alt="Python App" width="600"><br><img src="source/Python/script2.png" alt="Python App" width="600">
   [Code Examples](link-to-repo-or-snippets)  
   
   ### ✅5. Game Mods & Reverse Engineering
