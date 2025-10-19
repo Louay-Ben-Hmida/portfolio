@@ -58,8 +58,8 @@ Computer Science is more than a subject for me – it’s my hobby, my playgroun
   **Description:** Educational platform for Arduino parts with video tutorials and real-time code simulation  
   **Skills:** HTML/CSS/JS, PHP, Arduino  
   **Media:**  
-  <img src="source/Web/Vig1.gif" alt="Website Screenshot" width="400" height="300">
-  <img src="source/Web/Vig2.gif" alt="Website Screenshot" width="400" height="300">
+  <img src="source/Web/Vid1.gif" alt="Website Screenshot" width="400" height="300">
+  <img src="source/Web/Vid2.gif" alt="Website Screenshot" width="400" height="300">
   [Live Site](link-to-website)  
   
   ### ✅4. Python Projects
