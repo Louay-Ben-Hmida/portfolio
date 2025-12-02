@@ -103,7 +103,7 @@ Je souhaite poursuivre des études universitaires en **Informatique** (idéaleme
 
 ## 📫 Contact
 - GitHub : https://github.com/Louay-Ben-Hmida  
-- Email : louayy.benhmida@gmail.com
+- Email : louayy.benhmida@gmail.com  
 - LinkedIn / Portfolio : [lien]
 
 ---
