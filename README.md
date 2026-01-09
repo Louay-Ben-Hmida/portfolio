@@ -27,9 +27,8 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 - **Projets Web**  
   - Création d’un site éducatif dédié à Arduino, incluant vidéos et simulation de code en temps réel
-  - sdfg
-  – Certification en développement web [Certificat](source/web.pdf)
-  – Lettre de recommandation attestant de mes compétences en développement web [Certificat](source/LettreDeRecommendationSTI.pdf)
+  - Certification en développement web [Certificat](source/web.pdf)
+  - Lettre de recommandation attestant de mes compétences en développement web [Certificat](source/LettreDeRecommendationSTI.pdf)
 - **Modding & Création de Contenu**  
   - Mods et leaks pour jeux vidéo, avec une page Patreon : ~3 000 USD gagnés à l’âge de 16 ans, ~800 abonnés, plus de 120 000 vues sur YouTube
 
