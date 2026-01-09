@@ -45,7 +45,6 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 **Supports :**  
 <img src="source/Arduino/Car1.jpg" alt="Arduino Car" width="400" height="300">
 <img src="source/Arduino/Car2.jpg" alt="Arduino Car" width="400" height="300">  
-[Vidéo démonstrative](link-to-video)
 
 ---
 
@@ -64,7 +63,6 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 **Supports :**  
 <img src="source/Web/Vid1.gif" alt="Website Screenshot" width="800"><br>
 <img src="source/Web/Vid2.gif" alt="Website Screenshot" width="800">  
-[Site en ligne](link-to-website)
 
 ---
 
@@ -74,7 +72,6 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 **Supports :**  
 <img src="source/Python/script1.png" alt="Python App" width="600"><br>
 <img src="source/Python/script2.png" alt="Python App" width="600">  
-[Exemples de code](link-to-repo-or-snippets)
 
 ---
 
@@ -85,13 +82,14 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 <img src="source/Mods/img3.png" alt="Game Modding" width="800">
 <img src="source/Mods/img1.png" alt="Game Modding" width="800">
 <img src="source/Mods/img2.png" alt="Game Modding" width="800">  
-[Patreon](link-to-patreon) | [YouTube](link-to-youtube)
+
 
 ---
 
 ## 📈 Résultats scolaires
 - Toujours classé **1er en programmation** dans mon établissement  
-- Exemple : **19,93/20** en programmation au premier trimestre  
+- Exemple : **19,34/20** en programmation au premier trimestre 
+[YouTube](source/Mods/img2.png)
 - Lettres de recommandation disponibles
 
 ---
@@ -104,8 +102,6 @@ Je souhaite poursuivre des études universitaires en **Informatique** (idéaleme
 ## 📫 Contact
 - GitHub : https://github.com/Louay-Ben-Hmida  
 - Email : louayy.benhmida@gmail.com  
-- LinkedIn / Portfolio : [lien]
 
 ---
 
-*Tous les médias et projets peuvent être remplacés par vos captures d’écran, vidéos ou liens pour faciliter la consultation par les comités de bourses ou les universités.*
