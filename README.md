@@ -14,21 +14,20 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 ## 🏆 Réalisations
 - **Concours National de Développement Mobile** – 1ère place (à l’âge de 12 ans)  
-  ![Certificat](path/to/certificate.jpg)
+  ![Certificat](source/atsite.jpg)
 
 - **Concours National de Vidéo 3D & Storytelling** – 2ème place (événement officiel, avec invitation à une émission radio)
-
+[Certificat](source/melodie.pdf)
 - **Projets Arduino & Robotique** (âges 13–16)  
   - Conception de voitures télécommandées via application Android et Bluetooth  
-  - Lettres de recommandation disponibles
 
 - **Expérience en Développement de Jeux**  
   - Projets Unity & C#, collaboration avec un studio de jeux en Égypte  
-  - Vidéos disponibles montrant mes contributions
 
 - **Projets Web**  
   - Création d’un site éducatif dédié à Arduino, incluant vidéos et simulation de code en temps réel
-
+  – Certification en développement web [Certificat](source/web.pdf)
+  – Lettre de recommandation attestant de mes compétences en développement web [Certificat](source/LettreDeRecommendationSTI.pdf)
 - **Modding & Création de Contenu**  
   - Mods et leaks pour jeux vidéo, avec une page Patreon : ~3 000 USD gagnés à l’âge de 16 ans, ~800 abonnés, plus de 120 000 vues sur YouTube
 
@@ -88,8 +87,8 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 ## 📈 Résultats scolaires
 - Toujours classé **1er en programmation** dans mon établissement  
-- Exemple : **19,34/20** en programmation au premier trimestre 
-[YouTube](source/Mods/img2.png)
+- Exemple : Programmation : 19,34 / 20 (1er trimestre – Baccalauréat)
+[YouTube](source/atsite.jpg)
 - Lettres de recommandation disponibles
 
 ---
