@@ -14,7 +14,7 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 ## 🏆 Réalisations
 - **Concours National de Développement Mobile** – 1ère place (à l’âge de 12 ans)  
-  ![Certificat](source/atsite.jpg)
+  [Certificat](source/atsite.jpg)
 
 - **Concours National de Vidéo 3D & Storytelling** – 2ème place (événement officiel, avec invitation à une émission radio)
 [Certificat](source/melodie.pdf)
@@ -22,7 +22,8 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
   - Conception de voitures télécommandées via application Android et Bluetooth  
 
 - **Expérience en Développement de Jeux**  
-  - Projets Unity & C#, collaboration avec un studio de jeux en Égypte  
+  - Projets Unity & C#, collaboration avec un studio de jeux en Égypte 
+  - grr
 
 - **Projets Web**  
   - Création d’un site éducatif dédié à Arduino, incluant vidéos et simulation de code en temps réel
