@@ -6,7 +6,7 @@ Bonjour, je suis **Louay Ben Hmida**, un jeune passionné d’informatique âgé
 
 L’informatique est pour moi bien plus qu’une matière. C’est une passion, un espace de création et un moyen de concrétiser mes idées. J’aime apprendre, développer et innover, que ce soit en programmation, en développement de jeux, en robotique ou en création de sites web.
 
-**Langues :** Arabe (langue maternelle), Anglais (bon niveau), Français (niveau intermédiaire), Allemand (en apprentissage)  
+**Langues :** Arabe (langue maternelle), Anglais (courant), Français (courant), Allemand (débutant)  
 **Compétences & outils :** Python, PyQt5, C#, Unity, Arduino (C), HTML/CSS/JS, PHP, Unreal Engine, Blender
 
 ---
