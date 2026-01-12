@@ -1,6 +1,5 @@
 # Louay Ben Hmida – Portfolio
 
-![Profile Banner](path/to/banner-image.jpg)
 
 ## 👋 À propos de moi
 Bonjour, je suis **Louay Ben Hmida**, un jeune passionné d’informatique âgé de 17 ans, originaire de Tunisie. Je suis actuellement en dernière année du **Bac – Section Informatique**, avec l’objectif d’obtenir une moyenne de **16/17**.
