@@ -28,7 +28,7 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
   - Certification en développement web [Certificat](source/web.pdf)
   - Lettre de recommandation attestant de mes compétences en développement web [Certificat](source/LettreDeRecommendationSTI.pdf)
 - **Modding & Création de Contenu**  
-  - Mods et leaks pour jeux vidéo, avec une page Patreon : ~3 000 USD gagnés à l’âge de 16 ans, ~800 abonnés, plus de 120 000 vues sur YouTube
+  - Création et vente de mods pour jeux vidéo, avec gestion d’une page Patreon : environ 3 700 USD gagnés à l’âge de 16 ans, 1500 abonnés, et plus de 120 000 vues sur YouTube.
 
 - **Python & Résolution de problèmes**  
   - Plusieurs projets Python incluant des programmes mathématiques et des interfaces PyQt5
