@@ -23,7 +23,6 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 - **Expérience en Développement de Jeux**  
   - Projets Unity & C#, collaboration avec un studio de jeux en Égypte 
-  - grr
 
 - **Projets Web**  
   - Création d’un site éducatif dédié à Arduino, incluant vidéos et simulation de code en temps réel
@@ -34,6 +33,7 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 - **Python & Résolution de problèmes**  
   - Plusieurs projets Python incluant des programmes mathématiques et des interfaces PyQt5
+  - Lettre de recommandation attestant de mes compétences en programmation python [Certificat](source/LettreDeRecommendationSTI.pdf)
 
 ---
 
