@@ -13,10 +13,10 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 ## 🏆 Réalisations
 - **Concours National de Développement Mobile** – 1ère place (à l’âge de 12 ans)  
-  [Certificat](source/atsite.jpg)
+  [Attestation](source/atsite.jpg)
 
 - **Concours National de Vidéo 3D & Storytelling** – 2ème place (événement officiel, avec invitation à une émission radio)
-[Certificat](source/melodie.pdf)
+[Attestation](source/melodie.pdf)
 - **Projets Arduino & Robotique** (âges 13–16)  
   - Conception de voitures télécommandées via application Android et Bluetooth  
 
@@ -25,14 +25,14 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 - **Projets Web**  
   - Création d’un site éducatif dédié à Arduino, incluant vidéos et simulation de code en temps réel
-  - Certification en développement web [Certificat](source/web.pdf)
-  - Lettre de recommandation attestant de mes compétences en développement web [Certificat](source/LettreDeRecommendationSTI.pdf)
+  - Certification en développement web [Attestation](source/web.pdf)
+  - Lettre de recommandation attestant de mes compétences en développement web [Attestation](source/LettreDeRecommendationSTI.pdf)
 - **Modding & Création de Contenu**  
   - Création et vente de mods pour jeux vidéo, avec gestion d’une page Patreon : environ 3 700 USD gagnés à l’âge de 16 ans, 1500 abonnés, et plus de 120 000 vues sur YouTube.
 
 - **Python & Résolution de problèmes**  
   - Plusieurs projets Python incluant des programmes mathématiques et des interfaces PyQt5
-  - Lettre de recommandation attestant de mes compétences en programmation python [Certificat](source/LettreDeRecommendationAlgo.pdf)
+  - Lettre de recommandation attestant de mes compétences en programmation python [Attestation](source/LettreDeRecommendationAlgo.pdf)
 
 ---
 
@@ -88,7 +88,7 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 ## 📈 Résultats scolaires
 - Toujours classé **1er en programmation** dans mon établissement  
 - Exemple : Programmation : 19,37 / 20 (1er trimestre – Baccalauréat)
-[Bulletin](source/bulletin.pdf)
+[Attestation](source/bulletin.pdf)
 
 ---
 
