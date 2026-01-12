@@ -34,6 +34,8 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
   - Plusieurs projets Python incluant des programmes mathématiques et des interfaces PyQt5
   - Lettre de recommandation attestant de mes compétences en programmation python [Attestation](source/LettreDeRecommendationAlgo.pdf)
 
+- **Formation en marketing digital (Google)**
+  - Bases du marketing digital et communication en ligne. [Attestation](source/google.pdf)
 ---
 
 ## 💻 Projets
