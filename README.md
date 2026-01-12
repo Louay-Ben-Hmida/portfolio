@@ -32,7 +32,7 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 - **Python & Résolution de problèmes**  
   - Plusieurs projets Python incluant des programmes mathématiques et des interfaces PyQt5
-  - Lettre de recommandation attestant de mes compétences en programmation python [Certificat](source/LettreDeRecommendationSTI.pdf)
+  - Lettre de recommandation attestant de mes compétences en programmation python [Certificat](source/LettreDeRecommendationAlgo.pdf)
 
 ---
 
@@ -87,9 +87,8 @@ L’informatique est pour moi bien plus qu’une matière. C’est une passion, 
 
 ## 📈 Résultats scolaires
 - Toujours classé **1er en programmation** dans mon établissement  
-- Exemple : Programmation : 19,34 / 20 (1er trimestre – Baccalauréat)
-[YouTube](source/atsite.jpg)
-- Lettres de recommandation disponibles
+- Exemple : Programmation : 19,37 / 20 (1er trimestre – Baccalauréat)
+[Bulletin](source/bulletin.pdf)
 
 ---
 
